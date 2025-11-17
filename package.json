@@ -1,18 +1,39 @@
 {
   "name": "aryan-react-fast",
-  "version": "1.0.1",
-  "description": "One-command React + Vite + Tailwind v4 + Router starter",
+  "version": "1.0.2",
+  "description": "One-command React + Vite + Tailwind CSS v4 + React Router + Axios starter CLI.",
   "type": "module",
   "bin": {
     "aryan-react-fast": "./create-react-fast.mjs"
   },
   "keywords": [
     "react",
+    "reactjs",
     "vite",
     "tailwind",
+    "tailwindcss",
+    "react-router",
+    "axios",
     "starter",
-    "cli"
+    "boilerplate",
+    "frontend",
+    "cli",
+    "scaffolding"
   ],
   "author": "Aryan",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aryanzs/aryan-react-fast.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Aryanzs/aryan-react-fast/issues"
+  },
+  "homepage": "https://github.com/Aryanzs/aryan-react-fast#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  }
 }
